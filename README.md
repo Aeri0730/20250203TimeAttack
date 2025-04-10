@@ -1,11 +1,10 @@
 ## 2025-Advanced-Capstone-Chaeum
 
 # [🫧 채움] 게이미피케이션과 자동화를 적용한 기부형 크라우드 펀딩
-![Uploading 제목을-입력해주세요_.gif…]()
 
 ---
 
-![제목을-입력해주세요_.gif](%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_.gif)
+![CHAEUM](https://github.com/user-attachments/assets/e3731b9d-840f-421d-8263-53c52e5d32e6)
 
 ## **🫧 채움이란?**
 
